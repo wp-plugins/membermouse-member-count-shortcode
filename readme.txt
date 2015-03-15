@@ -1,20 +1,21 @@
-=== MemberMouse Member Count Shortcode ===
+=== MemberMouse Member Count ===
 Contributors: wpdevco, jasonmanheim
 Tags: shortcodes, membermouse, membership, members
 Requires at least: 4.0
 Tested up to: 4.1.1
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPL v3
 License URI: http://www.gnu.org/licenses/
 
-Display the total count of active members in MemberMouse (with optional Membership Level attribute).
+Display the total count of active members in MemberMouse (with optional Membership Level attribute) via shortcode.
 
 == Description ==
-> This plugin is an add-on and requires [MemberMouse](http://membermouse.com/)
+Display the total count of active members in MemberMouse (with optional Membership Level attribute) via shortcode. Output is cached for 24 hours. 
 
-Display the total count of active members in MemberMouse (with optional Membership Level attribute). Output is cached for 24 hours. 
+**Examples:** 
+[mm-active-member-count] or [mm-active-member-count level="1"]
 
-Examples: [mm-active-member-count] or [mm-active-member-count level="1"]
+> This plugin is an add-on and requires [MemberMouse](http://membermouse.com/).
 
 == Installation ==
 1. Upload the plugin to the `/wp-content/plugins/` directory.
@@ -39,9 +40,13 @@ Not at this time.
 2. Shortcodes output.
 
 == Changelog ==
-= 1.0.0 March 14, 2015 =
+= 1.0.0 - March 14, 2015 =
 
 * Initial release.
+
+= 1.0.1 - March 15, 2015 =
+
+* Update readme.
 
 == Upgrade Notice ==
 = 1.0.0 =

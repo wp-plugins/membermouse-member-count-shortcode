@@ -3,7 +3,7 @@ Contributors: wpdevco, jasonmanheim
 Tags: shortcodes, membermouse, membership, members
 Requires at least: 4.0
 Tested up to: 4.1.1
-Stable tag: 1.0.1
+Stable tag: 1.1.0
 License: GPL v3
 License URI: http://www.gnu.org/licenses/
 
@@ -41,6 +41,10 @@ Not at this time.
 2. Shortcodes output.
 
 == Changelog ==
+= 1.1.0 - March 15, 2015 =
+
+* Fix dependency check for MemberMouse with `plugins_loaded` hook.
+
 = 1.0.1 - March 15, 2015 =
 
 * Update readme.
@@ -50,6 +54,6 @@ Not at this time.
 * Initial release.
 
 == Upgrade Notice ==
-= 1.0.0 =
+= 1.1.0 =
 
-Initial release.
+Fix dependency check for MemberMouse.

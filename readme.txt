@@ -40,13 +40,13 @@ Not at this time.
 2. Shortcodes output.
 
 == Changelog ==
-= 1.0.0 - March 14, 2015 =
-
-* Initial release.
-
 = 1.0.1 - March 15, 2015 =
 
 * Update readme.
+
+= 1.0.0 - March 14, 2015 =
+
+* Initial release.
 
 == Upgrade Notice ==
 = 1.0.0 =

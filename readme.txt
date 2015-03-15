@@ -12,8 +12,9 @@ Display the total count of active members in MemberMouse (with optional Membersh
 == Description ==
 Display the total count of active members in MemberMouse (with optional Membership Level attribute) via shortcode. Output is cached for 24 hours. 
 
-**Examples:** 
-[mm-active-member-count] or [mm-active-member-count level="1"]
+=== Examples === 
+* **Total active members:** [mm-active-member-count]
+* **Active members with *Membership Level* 1:** [mm-active-member-count level="1"]
 
 > This plugin is an add-on and requires [MemberMouse](http://membermouse.com/).
 
@@ -31,7 +32,7 @@ Hover over the name of any level in MemberMouse -> Product Settings -> Membershi
 
 Absolutely. The output is wrapped in a `<span>` with the class `mm-active-member-count` and `mm-level-x`.
 
-= Can I display total member with 'x' bundle? =
+= Can I display total members with 'x' bundle? =
 
 Not at this time.
 

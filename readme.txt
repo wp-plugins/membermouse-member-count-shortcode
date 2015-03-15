@@ -12,7 +12,7 @@ Display the total count of active members in MemberMouse (with optional Membersh
 == Description ==
 Display the total count of active members in MemberMouse (with optional Membership Level attribute) via shortcode. Output is cached for 24 hours. 
 
-=== Examples === 
+= Examples =
 * **Total active members:** [mm-active-member-count]
 * **Active members with *Membership Level* 1:** [mm-active-member-count level="1"]
 

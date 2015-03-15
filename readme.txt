@@ -27,7 +27,7 @@ Display the total count of active members in MemberMouse (with optional Membersh
 
 Hover over the name of any level in MemberMouse -> Product Settings -> Membership Levels
 
-= Can I style the output =
+= Can I style the output? =
 
 Absolutely. The output is wrapped in a `<span>` with the class `mm-active-member-count` and `mm-level-x`.
 

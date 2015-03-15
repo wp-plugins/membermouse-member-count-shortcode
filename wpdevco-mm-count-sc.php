@@ -3,7 +3,7 @@
  * Plugin Name: MemberMouse Member Count Shortcode
  * Plugin URI: http://wpdev.co/
  * Description: Display the total count of active members in MemberMouse (with optional Membership Level attribute). Output is cached for 24 hours. Examples: [mm-active-member-count] or [mm-active-member-count level="1"]
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: wpdev.co
  * Author URI: http://wpdev.co/
  */
